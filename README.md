@@ -13,7 +13,7 @@ This project follows the **Medallion Architecture** using three layers:
 - **Silver Layer**: Cleaned and standardized data.
 - **Gold Layer**: Star-schema modeled data ready for analysis and reporting.
 
-![Data Architecture](docs/architecture_data.png)
+![Data Architecture](docs/layer_architecture.png)
 
 ---
 
