@@ -9,6 +9,10 @@ Performed Actions:
 	- Truncate the tables before loading
 	- Use 'COPY' command to load the data.
 
+Parameters:
+    None. 
+	  This stored procedure does not accept any parameters or return any values.
+
 Usage Example:
 	CALL bronze.load_bronze();
 */
