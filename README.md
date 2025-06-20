@@ -38,6 +38,12 @@ This project includes:
 
 ---
 
+## 🛠️ Important Link
+- Notion: [📋 Task management](https://www.notion.so/SQL-Data-Warehouse-Project-20ff13185d4e8016963bcc96bf7c34e9?source=copy_link)
+- All-in-one tool for project management and organization.
+
+---
+
 ## 📂 Repository Structure
 ```
 data-warehouse-project/
