@@ -38,6 +38,32 @@ This project includes:
 
 ---
 
+## 📂 Repository Structure
+```
+data-warehouse-project/
+│
+├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
+│
+├── docs/                               # Project documentation and architecture details
+│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
+│   ├── Data_flow.png                   # This image file for the data flow diagram
+|   |-- Data_Integration.png            # This image shows the integration between the CRM and ERP sources
+│   ├── Data_Mart.png                   # This image file for data models (star schema)
+│   ├── layer_architecture.png          # This image file shows the project's architecture
+│
+├── scripts/                            # SQL scripts for ETL and transformations
+│   ├── bronze/                         # Scripts for extracting and loading raw data
+│   ├── silver/                         # Scripts for cleaning and transforming data
+│   ├── gold/                           # Scripts for creating analytical models
+│
+├── tests/                              # Test scripts and quality files
+│
+├── README.md                           # Project overview and instructions
+├── LICENSE                             # License information for the repository
+```
+
+---
+
 ## 🧾 License
 
 This project is licensed under the [MIT License](LICENSE).  
