@@ -24,7 +24,6 @@ This project includes:
 - 🏛️ **Data Architecture Design** with Bronze, Silver, and Gold layers.
 - 🔄 **ETL Pipelines** to extract, transform, and load data.
 - 🧠 **Data Modeling** using fact and dimension tables.
-- 📊 **Analytics & Reporting** with SQL queries for insights.
 
 ---
 
@@ -39,16 +38,6 @@ This project includes:
 
 ---
 
-### 📈 Analytics & Reporting
-
-**Goal**: Derive insights using SQL queries around:
-
-- Customer behavior
-- Product performance
-- Sales trends
-
----
-
 ## 🧾 License
 
 This project is licensed under the [MIT License](LICENSE).  
@@ -60,7 +49,7 @@ Feel free to use, modify, and share this project with proper attribution.
 ## 🙋 About the Author
 
 Hi! I'm **Deepankar Singh**, a data enthusiast and aspiring data engineer.  
-This project is part of my personal portfolio to demonstrate hands-on skills in modern data warehousing, ETL development, and data analytics.
+This project is part of my personal portfolio to demonstrate hands-on skills in modern data warehousing, and ETL development.
 
 📫 Let's connect:
 - [LinkedIn](www.linkedin.com/in/deepankar-singh-a35b14296)
